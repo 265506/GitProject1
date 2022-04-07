@@ -8,6 +8,7 @@ public class Hello {
         System.out.println("Made few commits");
         System.out.println("how to git work again");
         System.out.println("push train");
+        System.out.println("again");
 
     }
 }
